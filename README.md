@@ -1,9 +1,12 @@
 # 👋 Hi, I'm <mark>Bishal Shrestha</mark> aka @iambstha
-- I am from Kathmandu, Nepal. Hometown: Itahari, Sunsari
-- 👀 I’m interested in building beautifully designed websites in JavaScript expecially using NextJS.
-- I am also fond of Python and it's simplicity.
-- ✨ Currently, I am learning Selenium for web automation, NextJS serverless functions & hygraph headless CMS in graphQL.
-- 💞️ I’m looking forward to collaborate on a design project.
+- By profession, an Engineer.
+- From Kathmandu, Nepal.
+- Hometown: Itahari, Sunsari
+- 👀 I’m interested in building beautifully designed websites in JavaScript expecially using ReactJS/NextJS.
+- Crazy Python and it's simplicity.
+- Right now, I have started developing a kind of weird happy fascination with JAVA. It's amazing. Still learning.
+- ✨ At work, I use Selenium for web automation.
+- 💞️ I am looking forward to collaborate on a design project or a survey project.
 - 📫 How to reach me?
 1. Email: iambstha@gmail.com
 2. [LinkedIn](https://www.linkedin.com/in/bishalshrestha-er/)
