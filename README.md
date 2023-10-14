@@ -1,11 +1,10 @@
-# 👋 Hi, I'm <mark>Bishal Shrestha</mark> aka @iambstha
+# 👋 Hi, I'm <mark>Bishal Shrestha</mark>
 - By profession, an Engineer.
-- From Kathmandu, Nepal.
-- Hometown: Itahari, Sunsari
 - 👀 I’m interested in building beautifully designed websites in JavaScript expecially using ReactJS/NextJS.
-- Crazy Python and it's simplicity.
+- Fond of simplicity and vastness of JAVA.
+- Crazy with availability of python libraries.
 - Right now, I have started developing a kind of weird happy fascination with JAVA. It's amazing. Still learning.
-- ✨ At work, I use Selenium for web automation.
+- ✨ At work, I use JAVA(API Design), .NET(Hobbyist), C++(Microcontroller programming) & JavaScript(Web Design).
 - 💞️ I am looking forward to collaborate on a design project or a survey project.
 - 📫 How to reach me?
 1. Email: iambstha@gmail.com
