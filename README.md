@@ -1,9 +1,7 @@
 # 👋 Hi, I'm <mark>Bishal Shrestha</mark>
 - By profession, an Engineer.
-- 👀 I’m interested in building beautifully designed websites in JavaScript expecially using ReactJS/NextJS.
-- Fond of simplicity and vastness of JAVA.
-- Crazy with availability of python libraries.
-- Right now, I have started developing a kind of weird happy fascination with JAVA. It's amazing. Still learning.
+- 👀 Building beautifully designed websites in JavaScript especially in ReactJS/NextJS.
+- JAVA Developer.
 - ✨ At work, I use JAVA(API Design), .NET(Hobbyist), C++(Microcontroller programming) & JavaScript(Web Design).
 - 💞️ I am looking forward to collaborate on a design project or a survey project.
 - 📫 How to reach me?
